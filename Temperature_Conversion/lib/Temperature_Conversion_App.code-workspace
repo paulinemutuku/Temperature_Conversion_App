@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../../../Temperature_Conversion/Temperature_Conversion_App"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../linux"
+		},
+		{
+			"path": "../macos"
+		},
+		{
+			"path": "../test"
+		},
+		{
+			"path": "../web"
+		},
+		{
+			"path": "../windows"
+		},
+		{
+			"path": "../android"
+		},
+		{
+			"path": "../ios"
+		}
+	],
+	"settings": {}
+}
